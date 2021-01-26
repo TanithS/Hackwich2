@@ -24,5 +24,10 @@ class ViewController: UIViewController {
         print("Hello World!")
     }
     
+    // Part 8
+    @IBAction func pressMeTooButtonPressed(_ sender: Any) {
+        print("I got this!")
+    }
+    
 }
 
