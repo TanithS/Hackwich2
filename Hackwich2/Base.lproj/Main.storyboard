@@ -87,6 +87,9 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" id="AhD-4E-wbf"/>
+                    <connections>
+                        <outlet property="firstLabel" destination="x7h-tD-WDB" id="Frd-bR-HUn"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="WEG-MU-uiC" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
